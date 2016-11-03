@@ -12,3 +12,8 @@ a:visited {
 a:active {
   color: #a05050
 }
+
+p {
+  background: blue;
+  color: black
+}
